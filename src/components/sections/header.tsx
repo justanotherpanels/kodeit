@@ -34,7 +34,7 @@ const Header = () => {
 
                     <div className="z-10 py-0.5 relative">
                         <Link href="/">
-                            <img src="/images/logos/logo.png" alt="Logo" title="Logo" className='w-[70px]' />
+                            <img src="/logo.png" alt="Logo KodeIT" title="Logo" className='w-[150px]' />
                         </Link>
                     </div>
 
