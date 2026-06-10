@@ -63,7 +63,7 @@ const Card = ({ title, price, description, features, id }: CardPropsType) => {
                             )
                         }
                     </ul>
-                    <Button>Order Now <FontAwesomeIcon icon={faAngleRight} fontSize={14} /></Button>
+                    <Button asLinked={true} path={`https://wa.me/6289660081616?text=Halo,%20saya%20tertarik%20dengan%20paket%20${title}`}>Pesan Sekarang <FontAwesomeIcon icon={faAngleRight} fontSize={14} /></Button>
                 </div>
             </div>
         </SlideUp>

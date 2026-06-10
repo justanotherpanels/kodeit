@@ -12,7 +12,7 @@ const About = () => {
                     <div className="lg:w-[40%] w-full flex-shrink flex-grow-0 basis-auto">
                         <SlideUp delay={3}>
                             <div className="about-image-part relative">
-                                <img src="/images/about/about.jpg" alt="About Me" />
+                                <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=683&h=856&q=80" alt="Tentang Kami" className="rounded-3xl object-cover" />
                                 <div className="flex items-center rounded-[32px] bg-primary py-2.5 pr-[25px] pl-[15px] absolute left-[25%] bottom-[25%]">
                                     <h6 className="font-bold text-black">Available for Work</h6>
                                     <div className="w-[15px] h-[15px] rounded-full bg-[#19461a] ml-3 pulse" />

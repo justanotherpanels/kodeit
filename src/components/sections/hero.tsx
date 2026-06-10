@@ -23,7 +23,7 @@ const Hero = () => {
                 <img src="/images/shape/dot-shape-circle.png" alt="Shape" />
               </div>
               <div className="mt-10">
-                <Button asLinked={true} path={"#"}>Hire Me <FontAwesomeIcon icon={faAngleRight} fontSize={14}/></Button>
+                <Button asLinked={true} path={"https://wa.me/6289660081616"}>Hubungi via WhatsApp <FontAwesomeIcon icon={faAngleRight} fontSize={14}/></Button>
               </div>
             </SlideUp>
             {/* / END HERO DESIGN AREA */}

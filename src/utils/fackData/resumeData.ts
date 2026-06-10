@@ -7,39 +7,39 @@ type DataType ={
 export const resumeData:DataType = [
     {
         id:1,
-        title:"Lead Web Designer",
-        companyName:"Envato",
-        years:"2021 - Present"
+        title:"Konsultasi & Diskusi",
+        companyName:"Menganalisa kebutuhan dan tujuan bisnis Anda.",
+        years:"Langkah 1"
     },
     {
         id:2,
-        title:"Junior UX/UI Designer",
-        companyName:"Framer",
-        years:"2016 - 2018"
+        title:"Desain UI/UX",
+        companyName:"Membuat rancangan visual yang menarik & responsif.",
+        years:"Langkah 2"
     },
     {
         id:3,
-        title:"Senior Product Designer",
-        companyName:"Webflow",
-        years:"2018 - 2021"
+        title:"Pengembangan Website",
+        companyName:"Membangun sistem dengan teknologi Next.js terkini.",
+        years:"Langkah 3"
     },
     {
         id:4,
-        title:"Graphics Designer",
-        companyName:"Apple",
-        years:"2014 - 2016"
+        title:"Testing & Revisi",
+        companyName:"Memastikan website berjalan lancar tanpa bug.",
+        years:"Langkah 4"
     },
     {
         id:5,
-        title:"Professional Logo Designer",
-        companyName:"envato",
-        years:"2011 - 2021"
+        title:"Peluncuran Website",
+        companyName:"Website siap go-online dan diakses oleh publik.",
+        years:"Langkah 5"
     },
     {
         id:6,
-        title:"Senior Graphics Designer",
-        companyName:"tesla",
-        years:"2013 - 2016"
+        title:"Maintenance & Support",
+        companyName:"Dukungan teknis agar website tetap prima dan optimal.",
+        years:"Langkah 6"
     },
 
 ]

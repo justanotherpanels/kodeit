@@ -13,8 +13,8 @@ const Resume = () => {
                         <div className="row">
                             <div className="col-xl-12 col-lg-12">
                                 <SectionTitle className="text-center">
-                                    <SectionTitle.Name>My Resume</SectionTitle.Name>
-                                    <SectionTitle.Title>Showcase Your <span className="text-primary">Talent</span> amplifing your impact</SectionTitle.Title>
+                                    <SectionTitle.Name>Cara Kerja Kami</SectionTitle.Name>
+                                    <SectionTitle.Title>Proses <span className="text-primary">Pembuatan Website</span> yang Sistematis</SectionTitle.Title>
                                 </SectionTitle>
                             </div>
                         </div>
